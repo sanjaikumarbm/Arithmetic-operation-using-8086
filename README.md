@@ -57,15 +57,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|     1210 : 12           |      1214 : 24           |
+1211 : 34  |  1215 : 68
+1212 : 12   | 1216 : 00
+1213 : 34    |1217 : C4
 
 #### Manual Calculations
+![SANJAI 1 ADD](https://github.com/user-attachments/assets/6e72372f-240f-4671-ad5e-24629d075c76)
 
-(Add your calculation here)
-
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![SANJAI1 OP](https://github.com/user-attachments/assets/0f963afb-087b-4c17-a760-8b7511e993ef)
+
+
 
 ## 2. SUBTRACTION
 
@@ -90,16 +94,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|     1210 : 12           |      1214 : 00           |
+1211 : 34  |  1215 : 68
+1212 : 12   | 1216 : 00
+1213 : 34    |1217 : C4
 #### Manual Calculations
-
-(Add your calculation here)
-
----
+![SANAJAI2](https://github.com/user-attachments/assets/ec04cf55-9ad2-43ac-84fa-049f5a7a3168)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![SANJAI2 OP](https://github.com/user-attachments/assets/8db9afd5-90db-4f71-b8e9-0c4df4fc9811)
+
 
 ## 3. MULTIPLICATION
 
@@ -136,18 +141,20 @@ END
 ```
 
 #### Output Table
-
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1200 : 12                |       1204 : 44                   |
+1201 : 34 | 1205 : 51
+1202 : 12 | 1206 : 97
+1203 : 34 | 1207 : 0A
 
 #### Manual Calculations
+![SANJAI3](https://github.com/user-attachments/assets/8c5ef239-41c1-4f8f-84d8-83e2425f8eb3)
 
-(Add your calculation here)
-
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![SANJAI3 OP](https://github.com/user-attachments/assets/7102631c-5138-425a-bbd4-fc1fd86e4786)
+
 
 ## 4. DIVISION
 
@@ -184,14 +191,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200 : 12                  |              1204 : 01            |
+1201 : 34 | 1205 : 00
+1202 : 12 | 1206 : 00
+1203 : 34 | 1207 : 00
 
 #### Manual Calculations
 
-(Add your calculation here)
+![SANJAI4](https://github.com/user-attachments/assets/165175c2-2535-4625-8732-b202fce4ec73)
 
----
 ## OUTPUT FROM MASM SOFTWARE
+![SANJAI4 OP](https://github.com/user-attachments/assets/481d0862-b0fe-4c72-b125-0597060dbcdd)
 
 
 
